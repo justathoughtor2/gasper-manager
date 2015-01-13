@@ -1,0 +1,7 @@
+{
+  "version": "0.0.1",
+  "dependencies": {
+    "formidable": ">=1.0.16",
+    "ghost-app": "0.0.2"
+  }
+}
